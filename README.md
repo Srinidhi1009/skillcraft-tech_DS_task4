@@ -32,7 +32,7 @@ A **bar chart** depicting accident counts by weather type, split by severity.
 
 * **Insights:** Rain, snow, and fog significantly increase the likelihood of severe accidents.
 
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task4/blob/1e8fc08192e95a1f3bcffc4a621a1fb343e0e167/Screenshot%202025-09-16%20130447.png)
 
 ---
 
@@ -42,7 +42,7 @@ A **histogram or count plot** showing accident frequency across hours of the day
 
 * **Insights:** Peak accident times often coincide with morning and evening rush hours.
 
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task4/blob/1e8fc08192e95a1f3bcffc4a621a1fb343e0e167/Screenshot%202025-09-16%20130519.png)
 
 ---
 
@@ -53,7 +53,7 @@ A **scatter plot** visualizing accident locations using latitude and longitude.
 * **Insights:** Geographic clusters indicate high-risk areas.
 * Optional: Interactive maps can be created using **Folium** for real-time analysis.
 
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task4/blob/1e8fc08192e95a1f3bcffc4a621a1fb343e0e167/Screenshot%202025-09-16%20130551.png)
 
 ---
 
@@ -63,7 +63,7 @@ Analyzing **road conditions, weather, and time of day together** can reveal scen
 
 * Example: Wet roads at night lead to a higher proportion of severe incidents.
 
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task4/blob/1e8fc08192e95a1f3bcffc4a621a1fb343e0e167/Screenshot%202025-09-16%20130623.png)
 
 ---
 
