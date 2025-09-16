@@ -1,0 +1,9 @@
+Accident_ID,Date,Time,Latitude,Longitude,Road_Condition,Weather,Severity
+1,2025-01-01,08:30,40.7128,-74.0060,Dry,Clear,Minor
+2,2025-01-01,18:45,40.7150,-74.0020,Wet,Rain,Major
+3,2025-01-02,22:10,40.7306,-73.9352,Snowy,Snow,Severe
+4,2025-01-03,14:20,40.7488,-73.9845,Dry,Clear,Minor
+5,2025-01-03,07:50,40.7306,-73.9910,Wet,Fog,Major
+6,2025-01-04,16:15,40.7580,-73.9855,Dry,Clear,Minor
+7,2025-01-04,19:30,40.7411,-73.9897,Wet,Rain,Major
+8,2025-01-05,23:05,40.7300,-73.9950,Snowy,Snow,Severe
