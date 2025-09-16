@@ -71,8 +71,7 @@ Analyzing **road conditions, weather, and time of day together** can reveal scen
 
 1. Ensure Python 3.x is installed.
 2. Install required libraries:
-3. ```bash
-pip install pandas matplotlib seaborn folium
+3. pip install pandas matplotlib seaborn folium
 
 ## **Usage**
 
