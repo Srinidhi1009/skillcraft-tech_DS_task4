@@ -22,7 +22,7 @@ A **count plot** showing accidents under different road conditions, categorized 
 
 * **Insights:** Wet or icy roads are more prone to severe accidents. Dry roads mostly see minor incidents.
 
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task4/blob/f259a7f7b99be78fc66aea30d6ffd26e41b13bd5/Screenshot%202025-09-16%20130413.png)
 
 ---
 
