@@ -78,11 +78,6 @@ pip install pandas matplotlib seaborn folium
 
 1. Prepare your accident dataset (`accidents.csv`).
 2. Run the analysis script:
-
-```bash
-python accident_analysis.py
-```
-
 3. Outputs:
 
    * Visualizations of accidents by road condition, weather, and time.
